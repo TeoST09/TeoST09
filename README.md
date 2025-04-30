@@ -9,7 +9,7 @@ class WhoAmI:
 
     usuario = 'Mateo'
     edad = 16
-    rol = "Desarrollador de backend"
+    rol = "Desarrollador de Software"
     programando_desde = 14
     pasatiempos = [
         "Programar videojuegos",
@@ -62,15 +62,18 @@ class WhoAmI:
     
     ![MiSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-  - 🎓Educación:
+ - Educación🎓:
+ - 
     ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
     ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
   - Financiamiento 💰:
+    
        ![Trabajador independiente](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
        ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
        
 - Aplicación y Herramientas:
+- 
     	![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
     ![Código visual de estudio](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
