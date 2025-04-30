@@ -6,6 +6,7 @@
 
 
 class WhoAmI:
+
     usuario = 'Mateo'
     edad = 16
     rol = "Desarrollador de backend"
@@ -16,7 +17,7 @@ class WhoAmI:
         "Leer",
         "Estar despierto toda la noche persiguiendo ese ERROR ÚNICO..."
     ]
-
+    
     @staticmethod
     def get_ciudad():
         return "Hyderabad, India"
