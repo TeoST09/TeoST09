@@ -84,7 +84,7 @@ class WhoAmI:
     ![Oficina de Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
     - 🎮Juegos:
-    - 
+      
     ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
     ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
     ![Vapor](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
@@ -99,7 +99,9 @@ class WhoAmI:
 <h1 alinear="centro">¡pongase en contacto! 📬</h1>
 <Br>
 <p alinear="centro">
-<a href="hhttps://www.linkedin.com/in/mateo-lopez-9935b0270" objetivo="en blanco"><img alinear="centro" src=„https://img.shields.io/badge/Mateo López-0077B5?estilo=para-la-insignia&logo=linkedin&logoColor=blanco" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:teo03lopez18@gmail.com" objetivo="en blanco"><img alinear="centro" src="https://img.shields.io/badge/teo03@gmail.com-D14836?style=for-the-badge&logotipo=gmail&logoColor=blanco" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/TeoST09/" objetivo="en blanco"><img alinear="centro" src="https://img.shields.io/badge/TeoST09-100000?style=for-the-badge&logo=github&logoColor=blanco" /></a>
+<a href="https://www.linkedin.com/in/mateo-lopez-9935b0270/" objetivo="en blanco"><img alinear="centro" src=„https://img.shields.io/badge/Mateo López-0077B5?estilo=para-la-insignia&logo=linkedin&logoColor=blanco" />TeoST</a> &nbsp;&nbsp;&nbsp;  <a href="mailto:teo03lopez18@gmail.com" objetivo="en blanco"><img alinear="centro" src="https://img.shields.io/badge/teo03@gmail.com-D14836?style=for-the-badge&logotipo=gmail&logoColor=blanco" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/TeoST09/" objetivo="en blanco"><img alinear="centro" src="https://img.shields.io/badge/TeoST09-100000?style=for-the-badge&logo=github&logoColor=blanco" /></a>
 </p>
+
+
   
 <Br>
