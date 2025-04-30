@@ -5,27 +5,30 @@
 <h2> Hola, ¡bienvenido a mi perfil de Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" ancho="30"></h2>
 
 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'TeoST'
-	current_edu = "St. Mary's Group of Institutions"
-	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Hyderabad_India()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
+```pitón
+clase WhoAmI:
+ usuario = 'Mateo'
+ edad = 16
+ rol = "Desarrollador de backend"
+ programando_desde = 14
+ educación = "St. Grupo de Instituciones de María"
+ pasatiempos = [
+ „Programa VideoJuegos" ,
+ "Leer ",
+ "Estar despreciado toda la noche persiguiendo ese ERROR ÚNICO..."
+    ]
+
+ def getCiudad():
+ regreso "Hyderabad, India"
+
+ def ambiciones():
+ volver [
+ "Montar una moto de alta cilindrada",
+ „Dominar la tecnología",
+ "Programar",
+ „Tener un carro deportivo",
+ "Emprender"
+        ]
  ```
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" ancho ="25"><b> Habilidades</b>
