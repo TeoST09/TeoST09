@@ -4,14 +4,13 @@
 <br />
 <h2> Hola, ¡bienvenido a mi perfil de Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" ancho="30"></h2>
 
-
+ ```python
 class WhoAmI:
 
     usuario = 'Mateo'
     edad = 16
     rol = "Desarrollador de backend"
     programando_desde = 14
-    educacion = "St. Grupo de Instituciones de María"
     pasatiempos = [
         "Programar videojuegos",
         "Leer",
@@ -20,19 +19,18 @@ class WhoAmI:
     
     @staticmethod
     def get_ciudad():
-        return "Hyderabad, India"
+        return "Marinilla, Antioquia"
 
     @staticmethod
     def ambiciones():
         return [
             "Montar una moto de alta cilindrada",
-            "Dominar la tecnología",
             "Programar",
             "Tener un carro deportivo",
             "Emprender"
         ]
 
-
+```
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" ancho ="25"><b> Habilidades</b>
 
 <p alinear="centro">
@@ -64,15 +62,15 @@ class WhoAmI:
     
     ![MiSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-  - ?? ¦ 🎓Educación:
+  - 🎓Educación:
     ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
     ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-     - ?? ¦ Financiamiento 💰:
+  - Financiamiento 💰:
        ![Trabajador independiente](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
        ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
        
-- ?? ¦ Aplicación y Herramientas:
+- Aplicación y Herramientas:
     	![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
     ![Código visual de estudio](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
@@ -82,7 +80,7 @@ class WhoAmI:
     ![Ventanas](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     ![Oficina de Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-    - ?? ¦ 🎮Juegos:
+    - 🎮Juegos:
     ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
     ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
     ![Vapor](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
