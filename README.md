@@ -98,10 +98,24 @@ class WhoAmI:
 
 <h1 alinear="centro">¡pongase en contacto! 📬</h1>
 <Br>
-<p alinear="centro">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/mateo-lopez-9935b0270/" objetivo="en blanco"><img alinear="centro" src=https://img.shields.io/badge/Mateo López-0077B5?estilo=para-la-insignia&logo=linkedin&logoColor=blanco" />TeoST</a> &nbsp;&nbsp;&nbsp;  <a href="mailto:teo03lopez18@gmail.com" objetivo="en blanco"><img alinear="centro" src="https://img.shields.io/badge/teo03@gmail.com-D14836?style=for-the-badge&logotipo=gmail&logoColor=blanco" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/TeoST09/" objetivo="en blanco"><img alinear="centro" src="https://img.shields.io/badge/TeoST09-100000?style=for-the-badge&logo=github&logoColor=blanco" /></a>
+  <a href="https://www.linkedin.com/in/mateo-lopez-9935b0270/" target="_blank">
+    <img src="https://img.shields.io/badge/Mateo%20López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:teo03lopez18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/teo03lopez18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/TeoST09/" target="_blank">
+    <img src="https://img.shields.io/badge/TeoST09-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
 </p>
+
 
 
   
