@@ -4,11 +4,29 @@
 <br />
 <h2> Hola, ¡bienvenido a mi perfil de Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" ancho="30"></h2>
 
-<p> 
-Soy Mateo López, desarrollador backend junior 
 
-Soy un pasado desarrollador web autodidacta, que empezó un programa a los 14 años. Desde entonces, el estado inmerso en el mundo de la tecnología, especialmente en el desarrollo backend, y me encanta resolver problemas completos usando codigo. A lo largo de los años, adquirido experiencia tanto en backend como en frontend, y busco constante nuevas formas de mejorar mis habilidades.
-</p>
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'TeoST'
+	current_edu = "St. Mary's Group of Institutions"
+	hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Hyderabad_India()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" ancho ="25"><b> Habilidades</b>
 
