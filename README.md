@@ -24,9 +24,7 @@ class WhoAmI:
     @staticmethod
     def ambiciones():
         return [
-            "Montar una moto de alta cilindrada",
             "Programar",
-            "Tener un carro deportivo",
             "Emprender"
         ]
 
