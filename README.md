@@ -12,7 +12,7 @@ class WhoAmI:
     rol = "Desarrollador de Software"
     programando_desde = 14
     pasatiempos = [
-        "Programar videojueg",
+        "Programar videojuego",
         "Leer",
         "Estar despierto toda la noche persiguiendo ese ERROR ÚNICO..."
     ]
