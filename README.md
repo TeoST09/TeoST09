@@ -30,9 +30,9 @@ class WhoAmI:
 
 ```
 
-<center>
+<centro>
   <b>Habilidades</b>
-</center>
+</centro>
 
 <p alinear="centro">
 
