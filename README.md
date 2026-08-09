@@ -8,11 +8,11 @@
 class WhoAmI:
 
     usuario = 'Mateo'
-    edad = 16
+    edad = 17
     rol = "Desarrollador de Software"
     programando_desde = 14
     pasatiempos = [
-        "Programar videojuegos",
+        "Programar videojueg",
         "Leer",
         "Estar despierto toda la noche persiguiendo ese ERROR ÚNICO..."
     ]
@@ -29,7 +29,10 @@ class WhoAmI:
         ]
 
 ```
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" ancho ="25"><b> Habilidades</b>
+
+<center>
+  <b>Habilidades</b>
+</center>
 
 <p alinear="centro">
 
@@ -42,6 +45,7 @@ class WhoAmI:
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
    	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
    
     
@@ -61,7 +65,8 @@ class WhoAmI:
     ![MiSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
  - Educación🎓:
- - 
+
+    ![Platzi](https://img.shields.io/badge/Platzi-222222?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
     ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
     ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
@@ -71,8 +76,8 @@ class WhoAmI:
        ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
        
 - Aplicación y Herramientas:
- 
-    ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+-   ![Microsoft_Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+-   ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
     ![Código visual de estudio](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
